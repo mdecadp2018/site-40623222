@@ -10,3 +10,5 @@ http://mde.tw/2018fall/content/index.html
 cpgx 網站: https://cpgx.kmol.info
 
 網站:https://mdecadp2018.github.io/site-40623222/content/index.html
+
+投影片:https://mdecadp2018.github.io/site-40623222/reveal/index.html#/
