@@ -130,11 +130,8 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;機設二乙 40623222 蔡博淮&lt;/small&gt;
 
-&lt;small&gt;blog(https://mdecadp2018.github.io/site-40623222/blog/index.html) &lt;/small&gt;
-
-&lt;small&gt;分組網站(https://mdecadp2018.github.io/site-40623222/content/Week6.html) &lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
+&lt;small&gt;[blog](https://mdecadp2018.github.io/site-40623222/blog/index.html) &lt;/small&gt;
+&lt;small&gt;[分組網站](https://mdecadp2018.github.io/site-40623222/content/Week6.html) &lt;/small&gt;
 
 
 </t>
