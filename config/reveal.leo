@@ -39,7 +39,7 @@
 <v t="leo.20181029115844.2"><vh>w2</vh>
 <v t="leo.20181029115844.3"><vh>w2</vh></v>
 </v>
-<v t="leo.20181107153259.1" a="E"><vh>w2</vh>
+<v t="leo.20181107153259.1"><vh>w2</vh>
 <v t="leo.20181107153259.2"><vh>w2</vh></v>
 </v>
 <v t="leo.20181029115844.4"><vh>w2</vh>
@@ -371,7 +371,7 @@ vertical: body pane on the botton</t>
 
 中秋節放假
 
-&lt;img src="/images/中秋節.jpg" width="225" height="225"&gt;
+&lt;img src="https://2.bp.blogspot.com/-hj96l82fW_o/WdCWeagfx9I/AAAAAAAAMZo/fWNIDLYZf5Mot_YhAPgjIIlCT99pVSw3QCLcBGAs/s1600/chusok%2Bkakao.jpg" width="225" height="225"&gt;
 
 </t>
 </tnodes>
