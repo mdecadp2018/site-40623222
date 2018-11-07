@@ -39,11 +39,8 @@
 <v t="leo.20181029115844.2"><vh>w2</vh>
 <v t="leo.20181029115844.3"><vh>w2</vh></v>
 </v>
-<v t="leo.20181107153259.1"><vh>w2</vh>
+<v t="leo.20181107153259.1" a="E"><vh>w2</vh>
 <v t="leo.20181107153259.2"><vh>w2</vh></v>
-</v>
-<v t="leo.20181029115844.4"><vh>w2</vh>
-<v t="leo.20181029115844.5"><vh>w2</vh></v>
 </v>
 </v>
 <v t="leo.20181107160100.1" a="E"><vh>w3</vh>
@@ -296,17 +293,6 @@ vertical: body pane on the botton</t>
 &lt;small&gt;[w2分組網站](https://mdecadp2018.github.io/site-40623222/content/Week2.html) &lt;/small&gt;
 
 </t>
-<t tx="leo.20181029115844.4">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181029115844.5">
-</t>
 <t tx="leo.20181107145623.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -338,7 +324,7 @@ vertical: body pane on the botton</t>
 
 * 領取期中報告倉儲，並將title改成自己的學號。
 
-&lt;img src="/images/chrome_2018-10-27_22-34-23.png" width="447" height="141"&gt;</t>
+&lt;img src="https://mdecadp2018.github.io/site-40623222/images/chrome_2018-10-27_22-34-23.png" width="447" height="141"&gt;</t>
 <t tx="leo.20181107160100.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -371,7 +357,7 @@ vertical: body pane on the botton</t>
 
 中秋節放假
 
-&lt;img src="https://2.bp.blogspot.com/-hj96l82fW_o/WdCWeagfx9I/AAAAAAAAMZo/fWNIDLYZf5Mot_YhAPgjIIlCT99pVSw3QCLcBGAs/s1600/chusok%2Bkakao.jpg" width="225" height="225"&gt;
+&lt;img src="https://2.bp.blogspot.com/-hj96l82fW_o/WdCWeagfx9I/AAAAAAAAMZo/fWNIDLYZf5Mot_YhAPgjIIlCT99pVSw3QCLcBGAs/s1600/chusok%2Bkakao.jpg" width="225" height="225" border="0"&gt;
 
 </t>
 </tnodes>
