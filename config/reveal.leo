@@ -24,34 +24,34 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181029115111.1" a="E"><vh>w1</vh>
+<v t="leo.20181029115111.1"><vh>w1</vh>
 <v t="leo.20180827201621.11"><vh>w1</vh>
 <v t="leo.20180827201621.12"><vh>w1</vh></v>
 </v>
-<v t="leo.20181107145623.1" a="E"><vh>w1</vh>
+<v t="leo.20181107145623.1"><vh>w1</vh>
 <v t="leo.20181107145623.2"><vh>w1</vh></v>
 </v>
-<v t="leo.20181029115151.1" a="E"><vh>w1</vh>
+<v t="leo.20181029115151.1"><vh>w1</vh>
 <v t="leo.20181029115151.3"><vh>w1</vh></v>
 </v>
 </v>
 <v t="leo.20181029115844.1"><vh>w2</vh>
-<v t="leo.20181029115844.2" a="E"><vh>w2</vh>
+<v t="leo.20181029115844.2"><vh>w2</vh>
 <v t="leo.20181029115844.3"><vh>w2</vh></v>
 </v>
-<v t="leo.20181029115844.4" a="E"><vh>w2</vh>
+<v t="leo.20181107153259.1"><vh>w2</vh>
+<v t="leo.20181107153259.2"><vh>w2</vh></v>
+</v>
+<v t="leo.20181029115844.4"><vh>w2</vh>
 <v t="leo.20181029115844.5"><vh>w2</vh></v>
 </v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20181107160100.1" a="E"><vh>w3</vh>
+<v t="leo.20181107160100.2" a="E"><vh>w3</vh>
+<v t="leo.20181107160100.3"><vh>w3</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181107160100.4" a="E"><vh>w3</vh>
+<v t="leo.20181107160100.5"><vh>w3</vh></v>
 </v>
 </v>
 </v>
@@ -164,83 +164,6 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;[w1分組網站](https://mdecadp2018.github.io/site-40623222/content/Week1.html) &lt;/small&gt;
 
-</t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180827201621.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -382,9 +305,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181029115844.5">## W1-心得
-
-* 過了一個暑假，再繼續使用github的時候很不習慣，突然找不到該去哪裡更改或是建立新的 profile，導致我一開始完全不想做，但想到為了要過這門課還是得要有東西出來，所以我就強迫自己訂個目標，[每個禮拜都要做出東西來]，希望我之後可以達到我自己訂的目標。
+<t tx="leo.20181029115844.5">
 </t>
 <t tx="leo.20181107145623.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -404,5 +325,54 @@ make.start()
 * step5:設定自己提交的email和名字
 * step6:開啟進端 https://localhost:8443進去修改40623222
 * step7:在重複step4的步驟,在git push上傳</t>
+<t tx="leo.20181107153259.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107153259.2"># W2
+
+* 領取期中報告倉儲，並將title改成自己的學號。
+
+&lt;img src="/images/chrome_2018-10-27_22-34-23.png" width="447" height="141" alt=""&gt;</t>
+<t tx="leo.20181107160100.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181107160100.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107160100.3"># W3
+
+&lt;small&gt;[w3分組網站](https://mdecadp2018.github.io/site-40623222/content/Week3.html) &lt;/small&gt;
+
+</t>
+<t tx="leo.20181107160100.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107160100.5"># W3
+
+中秋節放假
+
+&lt;img src="/images/中秋節.jpg" width="225" height="225" alt=""&gt;
+
+</t>
 </tnodes>
 </leo_file>
