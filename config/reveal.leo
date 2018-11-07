@@ -35,11 +35,11 @@
 <v t="leo.20181029115151.3"><vh>w1</vh></v>
 </v>
 </v>
-<v t="leo.20181029115844.1" a="E"><vh>w2</vh>
+<v t="leo.20181029115844.1"><vh>w2</vh>
 <v t="leo.20181029115844.2"><vh>w2</vh>
 <v t="leo.20181029115844.3"><vh>w2</vh></v>
 </v>
-<v t="leo.20181107153259.1" a="E"><vh>w2</vh>
+<v t="leo.20181107153259.1"><vh>w2</vh>
 <v t="leo.20181107153259.2"><vh>w2</vh></v>
 </v>
 </v>
@@ -49,6 +49,14 @@
 </v>
 <v t="leo.20181107160100.4" a="E"><vh>w3</vh>
 <v t="leo.20181107160100.5"><vh>w3</vh></v>
+</v>
+</v>
+<v t="leo.20181107165641.1" a="E"><vh>w4</vh>
+<v t="leo.20181107165641.2"><vh>w4</vh>
+<v t="leo.20181107165641.3"><vh>w4</vh></v>
+</v>
+<v t="leo.20181107165641.4" a="E"><vh>w4</vh>
+<v t="leo.20181107165641.5"><vh>w4</vh></v>
 </v>
 </v>
 </v>
@@ -310,7 +318,9 @@ vertical: body pane on the botton</t>
 * step4:先看自己的狀態然後增加,再提交,推送的名稱為initial add
 * step5:設定自己提交的email和名字
 * step6:開啟進端 https://localhost:8443進去修改40623222
-* step7:在重複step4的步驟,在git push上傳</t>
+* step7:在重複step4的步驟,在git push上傳
+
+</t>
 <t tx="leo.20181107153259.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -324,7 +334,9 @@ vertical: body pane on the botton</t>
 
 * 領取期中報告倉儲，並將title改成自己的學號。
 
-&lt;img src="https://mdecadp2018.github.io/site-40623222/images/chrome_2018-10-27_22-34-23.png" width="447" height="141"&gt;</t>
+&lt;img src="https://mdecadp2018.github.io/site-40623222/images/chrome_2018-10-27_22-34-23.png" width="447" height="141"&gt;
+
+</t>
 <t tx="leo.20181107160100.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -358,6 +370,40 @@ vertical: body pane on the botton</t>
 中秋節放假
 
 &lt;img src="https://2.bp.blogspot.com/-hj96l82fW_o/WdCWeagfx9I/AAAAAAAAMZo/fWNIDLYZf5Mot_YhAPgjIIlCT99pVSw3QCLcBGAs/s1600/chusok%2Bkakao.jpg" width="225" height="225" border="0"&gt;
+
+</t>
+<t tx="leo.20181107165641.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181107165641.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107165641.3"># W4
+
+&lt;small&gt;[w分組網站](https://mdecadp2018.github.io/site-40623222/content/Week4.html) &lt;/small&gt;
+
+</t>
+<t tx="leo.20181107165641.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107165641.5">## W4
+* 開始用 On Shap 畫圖
+
+&lt;a href="https://www.onshape.com/"&gt;&lt;img src="https://mdecadp2018.github.io/site-40623222/images/chrome_2018-10-07_22-46-02.png"width="500" height="300"&gt;&lt;/a&gt;
 
 </t>
 </tnodes>
