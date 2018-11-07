@@ -24,15 +24,18 @@
 <v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181029115111.1"><vh>w1</vh>
+<v t="leo.20181029115111.1" a="E"><vh>w1</vh>
 <v t="leo.20180827201621.11"><vh>w1</vh>
 <v t="leo.20180827201621.12"><vh>w1</vh></v>
 </v>
-<v t="leo.20181029115151.1"><vh>w1</vh>
+<v t="leo.20181107145623.1" a="E"><vh>w1</vh>
+<v t="leo.20181107145623.2"><vh>w1</vh></v>
+</v>
+<v t="leo.20181029115151.1" a="E"><vh>w1</vh>
 <v t="leo.20181029115151.3"><vh>w1</vh></v>
 </v>
 </v>
-<v t="leo.20181029115844.1" a="E"><vh>w2</vh>
+<v t="leo.20181029115844.1"><vh>w2</vh>
 <v t="leo.20181029115844.2" a="E"><vh>w2</vh>
 <v t="leo.20181029115844.3"><vh>w2</vh></v>
 </v>
@@ -383,5 +386,23 @@ make.start()
 
 * 過了一個暑假，再繼續使用github的時候很不習慣，突然找不到該去哪裡更改或是建立新的 profile，導致我一開始完全不想做，但想到為了要過這門課還是得要有東西出來，所以我就強迫自己訂個目標，[每個禮拜都要做出東西來]，希望我之後可以達到我自己訂的目標。
 </t>
+<t tx="leo.20181107145623.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107145623.2"># W1
+* step1:建立一個新的倉庫,名字為自己的學號.github.io
+* step2:克隆新的倉庫的網址,資料夾名字取為40623224,按Enter
+&lt;small&gt;  https://github.com/mdecadp2018/site-40623222 &lt;/small&gt;
+* step3:除了.git和README.md不用複製,其餘都複製到自己的資料夾
+* step4:先看自己的狀態然後增加,再提交,推送的名稱為initial add
+* step5:設定自己提交的email和名字
+* step6:開啟進端 https://localhost:8443進去修改40623222
+* step7:在重複step4的步驟,在git push上傳</t>
 </tnodes>
 </leo_file>
