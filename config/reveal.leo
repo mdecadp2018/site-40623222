@@ -35,11 +35,11 @@
 <v t="leo.20181029115151.3"><vh>w1</vh></v>
 </v>
 </v>
-<v t="leo.20181029115844.1"><vh>w2</vh>
+<v t="leo.20181029115844.1" a="E"><vh>w2</vh>
 <v t="leo.20181029115844.2"><vh>w2</vh>
 <v t="leo.20181029115844.3"><vh>w2</vh></v>
 </v>
-<v t="leo.20181107153259.1"><vh>w2</vh>
+<v t="leo.20181107153259.1" a="E"><vh>w2</vh>
 <v t="leo.20181107153259.2"><vh>w2</vh></v>
 </v>
 <v t="leo.20181029115844.4"><vh>w2</vh>
@@ -47,7 +47,7 @@
 </v>
 </v>
 <v t="leo.20181107160100.1" a="E"><vh>w3</vh>
-<v t="leo.20181107160100.2" a="E"><vh>w3</vh>
+<v t="leo.20181107160100.2"><vh>w3</vh>
 <v t="leo.20181107160100.3"><vh>w3</vh></v>
 </v>
 <v t="leo.20181107160100.4" a="E"><vh>w3</vh>
@@ -338,7 +338,7 @@ vertical: body pane on the botton</t>
 
 * 領取期中報告倉儲，並將title改成自己的學號。
 
-&lt;img src="/images/chrome_2018-10-27_22-34-23.png" width="447" height="141" alt=""&gt;</t>
+&lt;img src="/images/chrome_2018-10-27_22-34-23.png" width="447" height="141"&gt;</t>
 <t tx="leo.20181107160100.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -371,7 +371,7 @@ vertical: body pane on the botton</t>
 
 中秋節放假
 
-&lt;img src="/images/中秋節.jpg" width="225" height="225" alt=""&gt;
+&lt;img src="/images/中秋節.jpg" width="225" height="225"&gt;
 
 </t>
 </tnodes>
