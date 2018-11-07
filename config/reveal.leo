@@ -78,23 +78,26 @@
 <v t="leo.20181107183531.4"><vh>w5</vh>
 <v t="leo.20181107183531.5"><vh>w5</vh></v>
 </v>
-<v t="leo.20181107183531.6"><vh>w5</vh>
+<v t="leo.20181107183531.6" a="E"><vh>w5</vh>
 <v t="leo.20181107183531.7"><vh>w5</vh></v>
 </v>
 <v t="leo.20181107183531.8"><vh>w5</vh>
 <v t="leo.20181107183531.9"><vh>w4</vh></v>
 </v>
-<v t="leo.20181107183531.10" a="E"><vh>w5</vh>
+<v t="leo.20181107183531.10"><vh>w5</vh>
 <v t="leo.20181107183531.11"><vh>w5</vh></v>
 </v>
-<v t="leo.20181107183531.12" a="E"><vh>w5</vh>
+<v t="leo.20181107183531.12"><vh>w5</vh>
 <v t="leo.20181107183531.13"><vh>w5</vh></v>
 </v>
-<v t="leo.20181107213556.1" a="E"><vh>w5</vh>
+<v t="leo.20181107213556.1"><vh>w5</vh>
 <v t="leo.20181107213556.2"><vh>w5</vh></v>
 </v>
-<v t="leo.20181107213653.1" a="E"><vh>w5</vh>
+<v t="leo.20181107213653.1"><vh>w5</vh>
 <v t="leo.20181107213653.2"><vh>w5</vh></v>
+</v>
+<v t="leo.20181107214923.1" a="E"><vh>w5</vh>
+<v t="leo.20181107214923.2"><vh>w5</vh></v>
 </v>
 </v>
 </v>
@@ -571,29 +574,34 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20181107183531.7"> &lt;font face="serif" color="#FF7F00"size="8" &gt;&lt;p align="left" &gt;學習要點: &lt;/p&gt;&lt;/font&gt;
+<t tx="leo.20181107183531.7"> &lt;p align="center" &gt;&lt;font face="serif" color="#FF7F00"size="8" &gt;學習要點: &lt;/font&gt;&lt;/p&gt;
+ 
+ &lt;hr size="5" align="center" noshade width="90%" color="#00CD00"&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left" &gt;➡1.簡介"設計意圖" (design intent)&lt;/p&gt;&lt;/font&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡2.設定尺寸 (dimensions) 與約束 (constraints)&lt;/p&gt;&lt;/font&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡3.自動推理 (automatic inferencing)&lt;/p&gt;&lt;/font&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡4.繪製精確的零件 (accurate part)&lt;/p&gt;&lt;/font&gt;
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left" &gt;➡ 1.  簡介"設計意圖" (design intent)&lt;/p&gt;&lt;/font&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡5.草圖繪製練習&lt;/p&gt;&lt;/font&gt;
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 2.  設定尺寸 (dimensions) 與約束 (constraints)&lt;/p&gt;&lt;/font&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡6.運用與建立平面 (planes)&lt;/p&gt;&lt;/font&gt;
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 3.  自動推理 (automatic inferencing)&lt;/p&gt;&lt;/font&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡7.建立圓角 (fillets) 與倒角 (chamfers)&lt;/p&gt;&lt;/font&gt;
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 4.  繪製精確的零件 (accurate part)&lt;/p&gt;&lt;/font&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡8.使用多個 (multiple) 草圖區域 (sketch regions)&lt;/p&gt;&lt;/font&gt;
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 5.  草圖繪製練習&lt;/p&gt;&lt;/font&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡9.基本零件&lt;/p&gt;&lt;/font&gt;
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 6.  運用與建立平面 (planes)&lt;/p&gt;&lt;/font&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡10.繪製時鐘模型 - 用於設計意圖教學&lt;/p&gt;&lt;/font&gt;
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 7.  建立圓角 (fillets) 與倒角 (chamfers)&lt;/p&gt;&lt;/font&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡11.各種簡單的幾何形狀 (geometric shapes)&lt;/p&gt;&lt;/font&gt;</t>
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 8.  使用多個 (multiple) 草圖區域 (sketch regions)&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 9.  基本零件&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 10.  繪製時鐘模型 - 用於設計意圖教學&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 11.  各種簡單的幾何形狀 (geometric shapes)&lt;/p&gt;&lt;/font&gt;</t>
 <t tx="leo.20181107183531.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -636,5 +644,23 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-4&lt;/font&gt;&lt;/p&gt;
 
 &lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ZKwEnrcf7dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181107214923.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107214923.2">
+
+&lt;p&gt;&lt;font face="serif" color="#FF7F50" size="7"&gt;🚹學習心得🚺: &lt;/font&gt;&lt;/p&gt;
+
+&lt;hr size="10" align="center" noshade width="90%" color="#00CD00"&gt;
+
+
+ * 經過之前的練習後，對on shap 有比較熟練了。雖然介面是英文的關係，使我在使用上還是有些卡卡的，但我會去克服的，因位以後要學的技術也都是英文的居多。
+</t>
 </tnodes>
 </leo_file>
