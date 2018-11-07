@@ -43,7 +43,7 @@
 <v t="leo.20181107153259.2"><vh>w2</vh></v>
 </v>
 </v>
-<v t="leo.20181107160100.1" a="E"><vh>w3</vh>
+<v t="leo.20181107160100.1"><vh>w3</vh>
 <v t="leo.20181107160100.2"><vh>w3</vh>
 <v t="leo.20181107160100.3"><vh>w3</vh></v>
 </v>
@@ -51,7 +51,7 @@
 <v t="leo.20181107160100.5"><vh>w3</vh></v>
 </v>
 </v>
-<v t="leo.20181107165641.1" a="E"><vh>w4</vh>
+<v t="leo.20181107165641.1"><vh>w4</vh>
 <v t="leo.20181107165641.2"><vh>w4</vh>
 <v t="leo.20181107165641.3"><vh>w4</vh></v>
 </v>
@@ -67,8 +67,34 @@
 <v t="leo.20181107181702.1"><vh>w4</vh>
 <v t="leo.20181107181702.2"><vh>w4</vh></v>
 </v>
-<v t="leo.20181107182947.1" a="E"><vh>w4</vh>
+<v t="leo.20181107182947.1"><vh>w4</vh>
 <v t="leo.20181107182947.2"><vh>w4</vh></v>
+</v>
+</v>
+<v t="leo.20181107183531.1" a="E"><vh>w5</vh>
+<v t="leo.20181107183531.2"><vh>w5</vh>
+<v t="leo.20181107183531.3"><vh>w5</vh></v>
+</v>
+<v t="leo.20181107183531.4"><vh>w5</vh>
+<v t="leo.20181107183531.5"><vh>w5</vh></v>
+</v>
+<v t="leo.20181107183531.6"><vh>w5</vh>
+<v t="leo.20181107183531.7"><vh>w5</vh></v>
+</v>
+<v t="leo.20181107183531.8"><vh>w5</vh>
+<v t="leo.20181107183531.9"><vh>w4</vh></v>
+</v>
+<v t="leo.20181107183531.10" a="E"><vh>w5</vh>
+<v t="leo.20181107183531.11"><vh>w5</vh></v>
+</v>
+<v t="leo.20181107183531.12" a="E"><vh>w5</vh>
+<v t="leo.20181107183531.13"><vh>w5</vh></v>
+</v>
+<v t="leo.20181107213556.1" a="E"><vh>w5</vh>
+<v t="leo.20181107213556.2"><vh>w5</vh></v>
+</v>
+<v t="leo.20181107213653.1" a="E"><vh>w5</vh>
+<v t="leo.20181107213653.2"><vh>w5</vh></v>
 </v>
 </v>
 </v>
@@ -431,7 +457,7 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;marquee behavior="alternate"scrollamount="30"&gt;&lt;img src="https://www.onshape.com/hubfs/2017-assets/svg/onshape-logo.svg?t=1541533260874.gif"height="100"width="300"align="left"&gt;&lt;/marquee&gt;</t>
+&lt;marquee behavior="alternate" scrollamount="30"&gt;&lt;img src="https://www.onshape.com/hubfs/2017-assets/svg/onshape-logo.svg?t=1541533260874.gif"height="100"width="300"align="left"&gt;&lt;/marquee&gt;</t>
 <t tx="leo.20181107180553.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -473,5 +499,142 @@ vertical: body pane on the botton</t>
 
 
 &lt;iframe width="750" height="550" src="https://www.youtube.com/embed/kjqpn5bulVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181107183531.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181107183531.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107183531.11"> &lt;marquee behavior="alternate"scrollamount="100000"&gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第二題&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;/marquee&gt;
+
+&lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-1&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ylj8BgUva8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181107183531.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107183531.13"> 
+
+&lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-2&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/u4rtcDVywgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181107183531.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107183531.3"># W5
+
+&lt;small&gt;[w5分組網站](https://mdecadp2018.github.io/site-40623222/content/Week5.html) &lt;/small&gt;
+
+</t>
+<t tx="leo.20181107183531.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107183531.5">## W5
+
+* 設計意圖指在&lt;u&gt;設計進行前&lt;/u&gt;, 必須完成之專案目的與需求確認 📛
+
+* 幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認 ❗❗
+
+</t>
+<t tx="leo.20181107183531.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107183531.7"> &lt;font face="serif" color="#FF7F00"size="8" &gt;&lt;p align="left" &gt;學習要點: &lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left" &gt;➡1.簡介"設計意圖" (design intent)&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡2.設定尺寸 (dimensions) 與約束 (constraints)&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡3.自動推理 (automatic inferencing)&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡4.繪製精確的零件 (accurate part)&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡5.草圖繪製練習&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡6.運用與建立平面 (planes)&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡7.建立圓角 (fillets) 與倒角 (chamfers)&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡8.使用多個 (multiple) 草圖區域 (sketch regions)&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡9.基本零件&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡10.繪製時鐘模型 - 用於設計意圖教學&lt;/p&gt;&lt;/font&gt;
+
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡11.各種簡單的幾何形狀 (geometric shapes)&lt;/p&gt;&lt;/font&gt;</t>
+<t tx="leo.20181107183531.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107183531.9"> &lt;br &gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第一題&lt;/i&gt;&lt;/font&gt;&lt;/br&gt;
+
+
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/350L6QWRc8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181107213556.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107213556.2"> 
+&lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-3&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/xds0X87Of8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181107213653.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107213653.2">
+
+&lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-4&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ZKwEnrcf7dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
