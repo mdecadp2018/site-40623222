@@ -367,9 +367,8 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20181107160100.5"># W3
 
-中秋節放假
 
-&lt;img src="https://2.bp.blogspot.com/-hj96l82fW_o/WdCWeagfx9I/AAAAAAAAMZo/fWNIDLYZf5Mot_YhAPgjIIlCT99pVSw3QCLcBGAs/s1600/chusok%2Bkakao.jpg" width="225" height="225" border="0"&gt;
+&lt;marquee behavior="slide"scrollamount="30"&gt;&lt;img src="https://2.bp.blogspot.com/-hj96l82fW_o/WdCWeagfx9I/AAAAAAAAMZo/fWNIDLYZf5Mot_YhAPgjIIlCT99pVSw3QCLcBGAs/s1600/chusok%2Bkakao.jpg" width="500" height="500" &gt;&lt;font size="7"&gt;&lt;i&gt;中秋節放假&lt;/i&gt;&lt;/marquee&gt;
 
 </t>
 <t tx="leo.20181107165641.1">&lt;section&gt;
@@ -401,7 +400,8 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20181107165641.5">## W4
-* 開始用 On Shap 畫圖
+
+&lt;marquee behavior="alternate" scrollamount="20"&gt;開始用 On Shap 畫圖&lt;/marquee&gt;
 
 &lt;a href="https://www.onshape.com/"&gt;&lt;img src="https://mdecadp2018.github.io/site-40623222/images/chrome_2018-10-07_22-46-02.png"width="500" height="300"&gt;&lt;/a&gt;
 
