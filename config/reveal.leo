@@ -55,8 +55,20 @@
 <v t="leo.20181107165641.2"><vh>w4</vh>
 <v t="leo.20181107165641.3"><vh>w4</vh></v>
 </v>
-<v t="leo.20181107165641.4" a="E"><vh>w4</vh>
+<v t="leo.20181107165641.4"><vh>w4</vh>
 <v t="leo.20181107165641.5"><vh>w4</vh></v>
+</v>
+<v t="leo.20181107174101.1"><vh>w4</vh>
+<v t="leo.20181107174101.2"><vh>w4</vh></v>
+</v>
+<v t="leo.20181107180553.1"><vh>w4</vh>
+<v t="leo.20181107180553.2"><vh>w4</vh></v>
+</v>
+<v t="leo.20181107181702.1"><vh>w4</vh>
+<v t="leo.20181107181702.2"><vh>w4</vh></v>
+</v>
+<v t="leo.20181107182947.1" a="E"><vh>w4</vh>
+<v t="leo.20181107182947.2"><vh>w4</vh></v>
 </v>
 </v>
 </v>
@@ -363,12 +375,12 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 
-						
+
 </t>
 <t tx="leo.20181107160100.5"># W3
 
 
-&lt;marquee behavior="slide"scrollamount="30"&gt;&lt;img src="https://2.bp.blogspot.com/-hj96l82fW_o/WdCWeagfx9I/AAAAAAAAMZo/fWNIDLYZf5Mot_YhAPgjIIlCT99pVSw3QCLcBGAs/s1600/chusok%2Bkakao.jpg" width="500" height="500" &gt;&lt;font size="7"&gt;&lt;i&gt;中秋節放假&lt;/i&gt;&lt;/marquee&gt;
+&lt;marquee behavior="slide"scrollamount="30"loop="50"&gt;&lt;img src="https://2.bp.blogspot.com/-hj96l82fW_o/WdCWeagfx9I/AAAAAAAAMZo/fWNIDLYZf5Mot_YhAPgjIIlCT99pVSw3QCLcBGAs/s1600/chusok%2Bkakao.jpg" width="500" height="500" &gt;&lt;font size="7"&gt;&lt;i&gt;中秋節放假&lt;/i&gt;&lt;/marquee&gt;
 
 </t>
 <t tx="leo.20181107165641.1">&lt;section&gt;
@@ -406,5 +418,60 @@ vertical: body pane on the botton</t>
 &lt;a href="https://www.onshape.com/"&gt;&lt;img src="https://mdecadp2018.github.io/site-40623222/images/chrome_2018-10-07_22-46-02.png"width="500" height="300"&gt;&lt;/a&gt;
 
 </t>
+<t tx="leo.20181107174101.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107174101.2"> &lt;font face="serif" color="9AFF9A"size="7" &gt;&lt;i&gt;On Shap 練習題目&lt;/i&gt;&lt;/font&gt;
+
+
+
+&lt;marquee behavior="alternate"scrollamount="30"&gt;&lt;img src="https://www.onshape.com/hubfs/2017-assets/svg/onshape-logo.svg?t=1541533260874.gif"height="100"width="300"align="left"&gt;&lt;/marquee&gt;</t>
+<t tx="leo.20181107180553.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107180553.2"> &lt;br &gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第一題&lt;/i&gt;&lt;/font&gt;&lt;/br&gt;
+
+
+&lt;iframe width="750" height="500" src="https://www.youtube.com/embed/oo3fQjTeegA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20181107181702.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107181702.2"> &lt;br &gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第二題&lt;/i&gt;&lt;/font&gt;&lt;/br&gt;
+
+
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ylj8BgUva8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181107182947.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181107182947.2"> &lt;br &gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第三題&lt;/i&gt;&lt;/font&gt;&lt;/br&gt;
+
+
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/kjqpn5bulVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
