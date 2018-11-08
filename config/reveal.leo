@@ -111,15 +111,32 @@
 <v t="leo.20181109041125.2"><vh>w6</vh></v>
 </v>
 </v>
-<v t="leo.20181109042339.1" a="E"><vh>w7</vh>
-<v t="leo.20181109042339.2" a="E"><vh>w7</vh>
+<v t="leo.20181109042339.1"><vh>w7</vh>
+<v t="leo.20181109042339.2"><vh>w7</vh>
 <v t="leo.20181109042339.3"><vh>w7</vh></v>
 </v>
-<v t="leo.20181109042339.4"><vh>w6</vh>
-<v t="leo.20181109042339.5"><vh>w6</vh></v>
+<v t="leo.20181109042339.4"><vh>w7</vh>
+<v t="leo.20181109042339.5"><vh>w7</vh></v>
 </v>
-<v t="leo.20181109042339.6"><vh>w6</vh>
-<v t="leo.20181109042339.7"><vh>w6</vh></v>
+<v t="leo.20181109042339.6"><vh>w7</vh>
+<v t="leo.20181109042339.7"><vh>w7</vh></v>
+</v>
+<v t="leo.20181109044046.1"><vh>w7</vh>
+<v t="leo.20181109044046.2"><vh>w7</vh></v>
+</v>
+<v t="leo.20181109044123.1"><vh>w7</vh>
+<v t="leo.20181109044123.2"><vh>w7</vh></v>
+</v>
+</v>
+<v t="leo.20181109044535.1" a="E"><vh>w8</vh>
+<v t="leo.20181109044535.2"><vh>w8</vh>
+<v t="leo.20181109044535.3"><vh>w8</vh></v>
+</v>
+<v t="leo.20181109044535.4" a="E"><vh>w8</vh>
+<v t="leo.20181109044535.5"><vh>w8</vh></v>
+</v>
+<v t="leo.20181109044535.6" a="E"><vh>w8</vh>
+<v t="leo.20181109044535.7"><vh>w8</vh></v>
 </v>
 </v>
 </v>
@@ -767,9 +784,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20181109042339.3"># W6
+<t tx="leo.20181109042339.3"># W7
 
-&lt;small&gt;[w6分組網站](https://mdecadp2018.github.io/site-40623222/content/Week7.html) &lt;/small&gt;
+&lt;small&gt;[w7分組網站](https://mdecadp2018.github.io/site-40623222/content/Week7.html) &lt;/small&gt;
 
 </t>
 <t tx="leo.20181109042339.4">&lt;section data-markdown&gt;
@@ -782,11 +799,12 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20181109042339.5">
-&lt;p&gt;&lt;font face="serif" color="#008800"size="6" &gt;&lt;i&gt;1.以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#00FFFF"size="6" &gt;&lt;i&gt; 1.說明在使用CNSimfly過程，碰到無法正確解讀config/conten.htm時，可更新程式碼或回報問題的流程&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
 
 
 
-&lt;iframe  width="550" height="450" src="https://www.youtube.com/embed/6ULAecjorvU?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe  width="600" height="450" src="https://www.youtube.com/embed/WEsFrcuffOA?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
 </t>
 <t tx="leo.20181109042339.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -798,11 +816,104 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20181109042339.7">
-&lt;p&gt;&lt;font face="serif" color="#008800"size="6" &gt;&lt;i&gt;2.說明如何升級最新的CMSimfly倉儲中的flaskapp.py&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#00FFFF"size="6" &gt;&lt;i&gt;2.說明如何利用Virtualbox安裝 Ubuntu18.04.1伺服器，目的在自行建立Fossil SCM&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
 
 
 
-&lt;iframe  width="550" height="450" src="https://www.youtube.com/embed/mH_tW3erBqs?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;iframe  width="600" height="450" src="https://www.youtube.com/embed/JA75HIMhIgk?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+</t>
+<t tx="leo.20181109044046.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20181109044046.2">
+&lt;p&gt;&lt;font face="serif" color="#00FFFF"size="6" &gt;&lt;i&gt;3.展示如何在先前所建立的虛擬Ubuntu 18.04上啟動https協定下的Fossil SCM伺服器&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+
+
+&lt;iframe  width="600" height="450" src="https://www.youtube.com/embed/JA75HIMhIgk?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+</t>
+<t tx="leo.20181109044123.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20181109044123.2">
+&lt;p&gt;&lt;font face="serif" color="#00FFFF"size="6" &gt;&lt;i&gt;4.說明如何利用Fossil SCM建立區域網路中的分散式版次管理系統&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+
+
+&lt;iframe  width="600" height="450" src="https://www.youtube.com/embed/hCyeqgfh02w?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+</t>
+<t tx="leo.20181109044535.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109044535.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109044535.3"># W8
+
+&lt;small&gt;[w8分組網站](https://mdecadp2018.github.io/site-40623222/content/Week8.html) &lt;/small&gt;
+
+</t>
+<t tx="leo.20181109044535.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20181109044535.5">
+&lt;p  align="centor"&gt;&lt;font face="serif" color="#9955FF"size="7" &gt;&lt;i&gt;一、何謂雲端?&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;hr size="4" align="center" noshade width="90%" color="#33FFAA"&gt;
+
+&lt;p align="left"&gt;&lt;font face="serif" color="#CCFF33"size="6" &gt; 1. 有一堆伺服放在一起，且具有高彈性&lt;/font&gt;&lt;/p&gt;
+
+&lt;p align="left"&gt;&lt;font face="serif" color="#CCFF33"size="6" &gt; 2.雲端運算 - &lt;i&gt;&lt;font color="#FF0000"&gt;用多少開多少 - 用多少付多少 - 彈性高負擔少&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20181109044535.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20181109044535.7">
+&lt;p&gt;&lt;font face="serif" color="#9955FF"size="6" &gt;&lt;i&gt;二、說明機電資整合設計專案流程所需的相關套件運用與技術&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+
+
+&lt;iframe  width="600" height="450" src="https://www.youtube.com/embed/yAzfQm2gBEQ?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 
 
 </t>
