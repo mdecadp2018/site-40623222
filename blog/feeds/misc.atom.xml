@@ -1,5 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-09-10T11:00:00+08:00</updated><entry><title>2018 Fall 分組網誌</title><link href="./2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌 - Misc</title><link href="https://mdecadp2018.github.io/site-40623222/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623222/blog/feeds/misc.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623222/blog/</id><updated>2018-11-03T11:00:00+08:00</updated><entry><title>week 8</title><link href="https://mdecadp2018.github.io/site-40623222/blog/2018-Fall-Project-Blog8.html" rel="alternate"></link><published>2018-11-03T11:00:00+08:00</published><updated>2018-11-03T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-11-03:/site-40623222/blog/2018-Fall-Project-Blog8.html</id><summary type="html">&lt;p&gt;week 8&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week 8&lt;/p&gt;
+
+
+&lt;p  align="centor"&gt;&lt;font face="serif" color="#9955FF"size="7" &gt;&lt;i&gt;一、何謂雲端?&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;hr size="4" align="center" noshade width="90%" color="#33FFAA"&gt;
+
+&lt;p align="left"&gt;&lt;font face="serif" color="#CCFF33"size="6" &gt; 1. 有一堆伺服放在一起，且具有高彈性&lt;/font&gt;&lt;/p&gt;
+
+&lt;p align="left"&gt;&lt;font face="serif" color="#CCFF33"size="6" &gt; 2.雲端運算 - &lt;i&gt;&lt;font color="#FF0000"&gt;用多少開多少 - 用多少付多少 - 彈性高負擔少&lt;/font&gt;&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;font face="serif" color="#9955FF"size="6" &gt;&lt;i&gt;二、說明機電資整合設計專案流程所需的相關套件運用與技術&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe  width="600" height="450" src="https://www.youtube.com/embed/yAzfQm2gBEQ?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;</content><category term="2018Fall"></category></entry><entry><title>week 5</title><link href="https://mdecadp2018.github.io/site-40623222/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-08:/site-40623222/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;week 5&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week 5&lt;/p&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;設計意圖指在&lt;u&gt;設計進行前&lt;/u&gt;, 必須完成之專案目的與需求確認 📛&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;幾何外型越複雜, 越需要在零件設計之前做好設計意圖的確認 ❗❗&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;p align="center" &gt;&lt;font face="serif" color="#FF7F00"size="8" &gt;學習要點: &lt;/font&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;hr size="5" align="center" noshade width="90%" color="#00CD00"&gt;
+
+&lt;p&gt;&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left" &gt;➡ 1.  簡介"設計意圖" (design intent)&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 2.  設定尺寸 (dimensions) 與約束 (constraints)&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 3.  自動推理 (automatic inferencing)&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 4.  繪製精確的零件 (accurate part)&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 5.  草圖繪製練習&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 6.  運用與建立平面 (planes)&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 7.  建立圓角 (fillets) 與倒角 (chamfers)&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 8.  使用多個 (multiple) 草圖區域 (sketch regions)&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 9.  基本零件&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 10.  繪製時鐘模型 - 用於設計意圖教學&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 11.  各種簡單的幾何形狀 (geometric shapes)&lt;/p&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br &gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第一題&lt;/i&gt;&lt;/font&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/350L6QWRc8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;marquee behavior="alternate"scrollamount="100000"&gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第二題&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;/marquee&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-1&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ylj8BgUva8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-2&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/u4rtcDVywgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-3&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/xds0X87Of8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-4&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ZKwEnrcf7dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;font face="serif" color="#FF7F50" size="7"&gt;🚹學習心得🚺: &lt;/font&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;hr size="10" align="center" noshade width="90%" color="#00CD00"&gt;
+
+&lt;ul&gt;
+&lt;li&gt;經過之前的練習後，對on shap 有比較熟練了。雖然介面是英文的關係，使我在使用上還是有些卡卡的，但我會去克服的，因位以後要學的技術也都是英文的居多。&lt;/li&gt;
+&lt;/ul&gt;</content><category term="2018Fall"></category></entry><entry><title>week 4</title><link href="https://mdecadp2018.github.io/site-40623222/blog/2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-01:/site-40623222/blog/2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;week 4&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week 4&lt;/p&gt;
+
+
+&lt;p&gt;&lt;marquee behavior="alternate" scrollamount="20"&gt;開始用 On Shap 畫圖&lt;/marquee&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href="https://www.onshape.com/"&gt;&lt;img src="https://mdecadp2018.github.io/site-40623222/images/chrome_2018-10-07_22-46-02.png"width="200" height="150"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="serif" color="9AFF9A"size="7" &gt;&lt;i&gt;On Shap 練習題目&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br &gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第一題&lt;/i&gt;&lt;/font&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;iframe width="400" height="200" src="https://www.youtube.com/embed/oo3fQjTeegA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br &gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第二題&lt;/i&gt;&lt;/font&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;iframe width="400" height="200" src="https://www.youtube.com/embed/ylj8BgUva8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br &gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第三題&lt;/i&gt;&lt;/font&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;iframe width="400" height="200" src="https://www.youtube.com/embed/kjqpn5bulVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2018Fall"></category></entry><entry><title>week 7</title><link href="https://mdecadp2018.github.io/site-40623222/blog/2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-09-30T11:00:00+08:00</published><updated>2018-09-30T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-30:/site-40623222/blog/2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;week 7&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week 7&lt;/p&gt;
+
+
+&lt;p&gt;&lt;font face="serif" color="#00FFFF"size="6" &gt;&lt;i&gt; 1.說明在使用CNSimfly過程，碰到無法正確解讀config/conten.htm時，可更新程式碼或回報問題的流程&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe  width="600" height="450" src="https://www.youtube.com/embed/WEsFrcuffOA?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;font face="serif" color="#00FFFF"size="6" &gt;&lt;i&gt;2.說明如何利用Virtualbox安裝 Ubuntu18.04.1伺服器，目的在自行建立Fossil SCM&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe  width="600" height="450" src="https://www.youtube.com/embed/JA75HIMhIgk?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;font face="serif" color="#00FFFF"size="6" &gt;&lt;i&gt;3.展示如何在先前所建立的虛擬Ubuntu 18.04上啟動https協定下的Fossil SCM伺服器&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe  width="600" height="450" src="https://www.youtube.com/embed/JA75HIMhIgk?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;font face="serif" color="#00FFFF"size="6" &gt;&lt;i&gt;4.說明如何利用Fossil SCM建立區域網路中的分散式版次管理系統&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe  width="600" height="450" src="https://www.youtube.com/embed/hCyeqgfh02w?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;</content><category term="2018Fall"></category></entry><entry><title>week 3</title><link href="https://mdecadp2018.github.io/site-40623222/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-25T11:00:00+08:00</published><updated>2018-09-25T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-25:/site-40623222/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;week 3&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week 3&lt;/p&gt;
+
+
+&lt;p&gt;&lt;marquee behavior="slide"scrollamount="30"loop="50"&gt;&lt;img src="https://2.bp.blogspot.com/-hj96l82fW_o/WdCWeagfx9I/AAAAAAAAMZo/fWNIDLYZf5Mot_YhAPgjIIlCT99pVSw3QCLcBGAs/s1600/chusok%2Bkakao.jpg" width="200" height="200" &gt;&lt;font size="7"&gt;&lt;i&gt;中秋節放假&lt;/i&gt;&lt;/marquee&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 6</title><link href="https://mdecadp2018.github.io/site-40623222/blog/2018-Fall-Project-Blog6.html" rel="alternate"></link><published>2018-09-23T11:00:00+08:00</published><updated>2018-09-23T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-23:/site-40623222/blog/2018-Fall-Project-Blog6.html</id><summary type="html">&lt;p&gt;week 6&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week 6&lt;/p&gt;
+
+
+&lt;p&gt;&lt;font face="serif" color="#008800"size="6" &gt;&lt;i&gt;1.以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe  width="550" height="450" src="https://www.youtube.com/embed/6ULAecjorvU?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;font face="serif" color="#008800"size="6" &gt;&lt;i&gt;2.說明如何升級最新的CMSimfly倉儲中的flaskapp.py&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+&lt;iframe  width="550" height="450" src="https://www.youtube.com/embed/mH_tW3erBqs?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;/div&gt;</content><category term="2018Fall"></category></entry><entry><title>week 2</title><link href="https://mdecadp2018.github.io/site-40623222/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-18T11:00:00+08:00</published><updated>2018-09-18T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-18:/site-40623222/blog/2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;week 2&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week 2&lt;/p&gt;
+
+
+&lt;p&gt;領取期中報告倉儲，並將title改成自己的學號。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://mdecadp2018.github.io/site-40623222/images/chrome_2018-10-27_22-34-23.png" width="447" height="141"&gt;&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623222/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-11T11:00:00+08:00</published><updated>2018-09-11T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-11:/site-40623222/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -11,4 +145,17 @@
 &lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
 &lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
 &lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>week 1</title><link href="https://mdecadp2018.github.io/site-40623222/blog/2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623222/blog/2018-Fall-Project-Blog1.html</id><summary type="html">&lt;p&gt;week 1&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;week 1&lt;/p&gt;
+
+
+&lt;p&gt;step1:建立一個新的倉庫,名字為自己的學號.github.io&lt;/p&gt;
+&lt;p&gt;step2:克隆新的倉庫的網址,資料夾名字取為40623224,按Enter
+&lt;small&gt;  https://github.com/mdecadp2018/site-40623222 &lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;step3:除了.git和README.md不用複製,其餘都複製到自己的資料夾&lt;/p&gt;
+&lt;p&gt;step4:先看自己的狀態然後增加,再提交,推送的名稱為initial add&lt;/p&gt;
+&lt;p&gt;step5:設定自己提交的email和名字&lt;/p&gt;
+&lt;p&gt;step6:開啟進端 https://localhost:8443進去修改40623222&lt;/p&gt;
+&lt;p&gt;step7:在重複step4的步驟,在git push上傳&lt;/p&gt;
+&lt;h2&gt;week 1 心得&lt;/h2&gt;
+&lt;p&gt;過了一個暑假，再繼續使用github的時候很不習慣，突然找不到該去哪裡更改或是建立新的 profile，導致我一開始完全不想做，但想到為了要過這門課還是得要有東西出來，所以我就強迫自己訂個目標，[每個禮拜都要做出東西來]，希望我之後可以達到我自己訂的目標。&lt;/p&gt;</content><category term="2018Fall"></category></entry></feed>
