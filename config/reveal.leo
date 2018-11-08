@@ -51,7 +51,7 @@
 <v t="leo.20181107160100.5"><vh>w3</vh></v>
 </v>
 </v>
-<v t="leo.20181107165641.1" a="E"><vh>w4</vh>
+<v t="leo.20181107165641.1"><vh>w4</vh>
 <v t="leo.20181107165641.2"><vh>w4</vh>
 <v t="leo.20181107165641.3"><vh>w4</vh></v>
 </v>
@@ -100,15 +100,26 @@
 <v t="leo.20181107214923.2"><vh>w5</vh></v>
 </v>
 </v>
-<v t="leo.20181108230400.1" a="E"><vh>w6</vh>
+<v t="leo.20181108230400.1"><vh>w6</vh>
 <v t="leo.20181108230400.2"><vh>w6</vh>
 <v t="leo.20181108230400.3"><vh>w6</vh></v>
 </v>
 <v t="leo.20181108230400.4"><vh>w6</vh>
 <v t="leo.20181108230400.5"><vh>w6</vh></v>
 </v>
-<v t="leo.20181109041125.1" a="E"><vh>w6</vh>
+<v t="leo.20181109041125.1"><vh>w6</vh>
 <v t="leo.20181109041125.2"><vh>w6</vh></v>
+</v>
+</v>
+<v t="leo.20181109042339.1" a="E"><vh>w7</vh>
+<v t="leo.20181109042339.2" a="E"><vh>w7</vh>
+<v t="leo.20181109042339.3"><vh>w7</vh></v>
+</v>
+<v t="leo.20181109042339.4"><vh>w6</vh>
+<v t="leo.20181109042339.5"><vh>w6</vh></v>
+</v>
+<v t="leo.20181109042339.6"><vh>w6</vh>
+<v t="leo.20181109042339.7"><vh>w6</vh></v>
 </v>
 </v>
 </v>
@@ -734,6 +745,59 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20181109041125.2">
+&lt;p&gt;&lt;font face="serif" color="#008800"size="6" &gt;&lt;i&gt;2.說明如何升級最新的CMSimfly倉儲中的flaskapp.py&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+
+
+&lt;iframe  width="550" height="450" src="https://www.youtube.com/embed/mH_tW3erBqs?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
+</t>
+<t tx="leo.20181109042339.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109042339.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109042339.3"># W6
+
+&lt;small&gt;[w6分組網站](https://mdecadp2018.github.io/site-40623222/content/Week7.html) &lt;/small&gt;
+
+</t>
+<t tx="leo.20181109042339.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20181109042339.5">
+&lt;p&gt;&lt;font face="serif" color="#008800"size="6" &gt;&lt;i&gt;1.以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+
+
+&lt;iframe  width="550" height="450" src="https://www.youtube.com/embed/6ULAecjorvU?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</t>
+<t tx="leo.20181109042339.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20181109042339.7">
 &lt;p&gt;&lt;font face="serif" color="#008800"size="6" &gt;&lt;i&gt;2.說明如何升級最新的CMSimfly倉儲中的flaskapp.py&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
 
 
