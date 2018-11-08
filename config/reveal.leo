@@ -47,11 +47,11 @@
 <v t="leo.20181107160100.2"><vh>w3</vh>
 <v t="leo.20181107160100.3"><vh>w3</vh></v>
 </v>
-<v t="leo.20181107160100.4" a="E"><vh>w3</vh>
+<v t="leo.20181107160100.4"><vh>w3</vh>
 <v t="leo.20181107160100.5"><vh>w3</vh></v>
 </v>
 </v>
-<v t="leo.20181107165641.1"><vh>w4</vh>
+<v t="leo.20181107165641.1" a="E"><vh>w4</vh>
 <v t="leo.20181107165641.2"><vh>w4</vh>
 <v t="leo.20181107165641.3"><vh>w4</vh></v>
 </v>
@@ -61,7 +61,7 @@
 <v t="leo.20181107174101.1"><vh>w4</vh>
 <v t="leo.20181107174101.2"><vh>w4</vh></v>
 </v>
-<v t="leo.20181107180553.1"><vh>w4</vh>
+<v t="leo.20181107180553.1" a="E"><vh>w4</vh>
 <v t="leo.20181107180553.2"><vh>w4</vh></v>
 </v>
 <v t="leo.20181107181702.1"><vh>w4</vh>
@@ -71,7 +71,7 @@
 <v t="leo.20181107182947.2"><vh>w4</vh></v>
 </v>
 </v>
-<v t="leo.20181107183531.1" a="E"><vh>w5</vh>
+<v t="leo.20181107183531.1"><vh>w5</vh>
 <v t="leo.20181107183531.2"><vh>w5</vh>
 <v t="leo.20181107183531.3"><vh>w5</vh></v>
 </v>
@@ -98,6 +98,17 @@
 </v>
 <v t="leo.20181107214923.1" a="E"><vh>w5</vh>
 <v t="leo.20181107214923.2"><vh>w5</vh></v>
+</v>
+</v>
+<v t="leo.20181108230400.1" a="E"><vh>w6</vh>
+<v t="leo.20181108230400.2"><vh>w6</vh>
+<v t="leo.20181108230400.3"><vh>w6</vh></v>
+</v>
+<v t="leo.20181108230400.4"><vh>w6</vh>
+<v t="leo.20181108230400.5"><vh>w6</vh></v>
+</v>
+<v t="leo.20181109041125.1" a="E"><vh>w6</vh>
+<v t="leo.20181109041125.2"><vh>w6</vh></v>
 </v>
 </v>
 </v>
@@ -460,7 +471,9 @@ vertical: body pane on the botton</t>
 
 
 
-&lt;marquee behavior="alternate" scrollamount="30"&gt;&lt;img src="https://www.onshape.com/hubfs/2017-assets/svg/onshape-logo.svg?t=1541533260874.gif"height="100"width="300"align="left"&gt;&lt;/marquee&gt;</t>
+&lt;marquee behavior="alternate" scrollamount="30"&gt;&lt;img src="https://www.onshape.com/hubfs/2017-assets/svg/onshape-logo.svg?t=1541533260874.gif"height="100"width="300"align="left"&gt;&lt;/marquee&gt;
+
+</t>
 <t tx="leo.20181107180553.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -488,7 +501,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20181107181702.2"> &lt;br &gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第二題&lt;/i&gt;&lt;/font&gt;&lt;/br&gt;
 
 
-&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ylj8BgUva8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ylj8BgUva8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181107182947.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -501,7 +516,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20181107182947.2"> &lt;br &gt;&lt;font face="serif" color="#FFD700"size="7" &gt;&lt;i&gt; 第三題&lt;/i&gt;&lt;/font&gt;&lt;/br&gt;
 
 
-&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/kjqpn5bulVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/kjqpn5bulVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181107183531.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -520,7 +537,9 @@ vertical: body pane on the botton</t>
 
 &lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-1&lt;/font&gt;&lt;/p&gt;
 
-&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ylj8BgUva8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ylj8BgUva8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181107183531.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -534,7 +553,9 @@ vertical: body pane on the botton</t>
 
 &lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-2&lt;/font&gt;&lt;/p&gt;
 
-&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/u4rtcDVywgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/u4rtcDVywgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181107183531.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -601,7 +622,9 @@ vertical: body pane on the botton</t>
 
 &lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 10.  繪製時鐘模型 - 用於設計意圖教學&lt;/p&gt;&lt;/font&gt;
 
-&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 11.  各種簡單的幾何形狀 (geometric shapes)&lt;/p&gt;&lt;/font&gt;</t>
+&lt;font face="serif" color="#FAEBD7"size="6" &gt;&lt;p align="left"&gt;➡ 11.  各種簡單的幾何形狀 (geometric shapes)&lt;/p&gt;&lt;/font&gt;
+
+</t>
 <t tx="leo.20181107183531.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -629,7 +652,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20181107213556.2"> 
 &lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-3&lt;/font&gt;&lt;/p&gt;
 
-&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/xds0X87Of8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/xds0X87Of8I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181107213653.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -643,7 +668,9 @@ vertical: body pane on the botton</t>
 
 &lt;p&gt;&lt;font face="serif" color="#FF3E96" size="6"&gt;C型夾的各部分零件圖-4&lt;/font&gt;&lt;/p&gt;
 
-&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ZKwEnrcf7dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="750" height="550" src="https://www.youtube.com/embed/ZKwEnrcf7dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20181107214923.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -661,6 +688,59 @@ vertical: body pane on the botton</t>
 
 
  * 經過之前的練習後，對on shap 有比較熟練了。雖然介面是英文的關係，使我在使用上還是有些卡卡的，但我會去克服的，因位以後要學的技術也都是英文的居多。
+</t>
+<t tx="leo.20181108230400.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181108230400.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181108230400.3"># W6
+
+&lt;small&gt;[w6分組網站](https://mdecadp2018.github.io/site-40623222/content/Week6.html) &lt;/small&gt;
+
+</t>
+<t tx="leo.20181108230400.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20181108230400.5">
+&lt;p&gt;&lt;font face="serif" color="#008800"size="6" &gt;&lt;i&gt;1.以更新 lab-booking-cdlab 倉儲內容為例, 說明管理內容流程&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+
+
+&lt;iframe  width="550" height="450" src="https://www.youtube.com/embed/6ULAecjorvU?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</t>
+<t tx="leo.20181109041125.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+</t>
+<t tx="leo.20181109041125.2">
+&lt;p&gt;&lt;font face="serif" color="#008800"size="6" &gt;&lt;i&gt;2.說明如何升級最新的CMSimfly倉儲中的flaskapp.py&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;
+
+
+
+&lt;iframe  width="550" height="450" src="https://www.youtube.com/embed/mH_tW3erBqs?ecver=2"  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+
 </t>
 </tnodes>
 </leo_file>
